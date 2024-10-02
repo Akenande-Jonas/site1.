@@ -1,6 +1,48 @@
-.c{
-    margin-color: 15px;
-    border-color: rgb(255, 222, 33);
-    border: 10px;
-    padding: 25%;
+div{
+    text-align: center;
+}
+div#bandeau{
+    width: 1900px;
+    height: 200px;
+    background-color: #00CCFF;
+}
+div{
+    text-align: center;
+}
+div#contenu{
+    width: 1900px;
+    height: 700px;
+    background-color: #FFCC00;
+}
+div#menu{
+    float: left;
+    width: 0px;
+    height: 0px;
+    background-color: #FF6699;
+}
+div#menuhaut{
+    width: 100px;
+    height: 340px;
+    background-color: #66CC33;
+}
+div#menubas{
+    width: 100px;
+    height: 360px;
+    background-color: #e423e4;
+}
+div#blocnews{
+    float: right;
+    width: 250px;
+    height: 150px;
+    background-color: #FF3300;
+}
+div#piedpage{
+    width: 1900px;
+    height: 200px;
+    background-color: #33FF99;
+}
+div#sous{
+    width: 1900px;
+    height: 100px;
+    background-color: #01e5f5;
 }
